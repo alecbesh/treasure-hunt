@@ -1,0 +1,7 @@
+# Map, first-mate = stack
+M
+4
+oooo
+oo@o
+oo#o
+$...
